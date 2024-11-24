@@ -22,8 +22,3 @@ The dataset includes:
 - Monthly sales data for various products.
 - Product details such as material number, description, size, and packaging.
 - Financial metrics including gross sales, net sales, discounts, and associated costs.
-
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sales-analysis.git
